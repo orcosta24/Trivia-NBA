@@ -1,0 +1,27 @@
+[
+    {
+        "pregunta": "¿Quién fue el MVP de las Finales de la NBA en la temporada 2020-2021?",
+        "opciones": ["LeBron James", "Giannis Antetokounmpo", "Kevin Durant"],
+        "respuesta_correcta": "Giannis Antetokounmpo"
+    },
+    {
+        "pregunta": "¿Qué equipo ganó el campeonato de la NBA en la temporada 2019-2020?",
+        "opciones": ["Los Angeles Lakers", "Miami Heat", "Golden State Warriors"],
+        "respuesta_correcta": "Los Angeles Lakers"
+    },
+    {
+        "pregunta": "¿Quién fue el líder anotador en promedio de la temporada regular 2020-2021?",
+        "opciones": ["Bradley Beal", "Stephen Curry", "Damian Lillard"],
+        "respuesta_correcta": "Stephen Curry"
+    },
+    {
+        "pregunta": "¿Cuál fue el equipo con el mejor récord en la temporada regular 2020-2021?",
+        "opciones": ["Utah Jazz", "Phoenix Suns", "Brooklyn Nets"],
+        "respuesta_correcta": "Utah Jazz"
+    },
+    {
+        "pregunta": "¿Quién ganó el premio al Novato del Año en la temporada 2020-2021?",
+        "opciones": ["Anthony Edwards", "James Wiseman", "LaMelo Ball"],
+        "respuesta_correcta": "LaMelo Ball"
+    }
+]
